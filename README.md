@@ -8,12 +8,12 @@
 #### 🇯🇵 | Japanese
 - はじめましての方ははじめまして、T-b-t-nchosです。
 - 普段は学生をしています。
-- C#などでちょっとしたアプリを開発してたりしてなかったりしています。<br>(公開する予定はありません)
+- C#などでちょっとしたアプリを開発してたりしてなかったりしています。<br>(公開する予定は今はありません)
 
 #### 🇺🇸 | English
 - Hello, I'm T-b-t-nchos.
 - I'm a student.
-- I sometimes work on small apps in C#. <br>(but I don’t plan to release them)
+- I sometimes work on small apps in C#. <br>(but I don’t plan to release them now.)
 
 <br>
 
