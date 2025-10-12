@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&width=900&height=100&section=header"/>
-  <p><b>🔧Hello, I am T-b-t-nchos.</b></p>
 </div>
 
 ## ✨️| Self-introduction
