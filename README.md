@@ -107,15 +107,6 @@
 
 ---
 
-## ✒️| Gravator Profile
-<div align="center">
-  <a href = "https://gravatar.com/nchoos">
-    <img src="./profile-card.svg">
-  </a>
-</div>
-
----
-
 <br>
 
 ## 🪄| Asci-Art...?
