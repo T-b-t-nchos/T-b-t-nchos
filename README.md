@@ -53,6 +53,18 @@
 <br>
 
 ## 🔧| My project(?)s
+### 🪼| [Aquavium.nvim](https://github.com/T-b-t-nchos/Aquavium.nvim)
+<details>
+  <summary><b>🤔| What's this?</b></summary>
+  <blockquote>
+    Luaで開発している、NeoVimのカラースキームです。<br>
+    水族館をモチーフとした、透過背景のターミナルで使用することを前提としたカラースキームとなっています。<br>
+    <br>
+    ゲーム「アクアリウムは踊らない」よりインスピレーションを受けました。<br>
+    興味のある方は是非!
+  </blockquote>
+</details>
+
 ### ✏️| Syobosetsu (Private)
 <details>
   <summary><b>🤔| What's this?</b></summary>
