@@ -65,6 +65,8 @@
   </blockquote>
 </details>
 
+<br>
+
 ### ✏️| Syobosetsu (Private)
 <details>
   <summary><b>🤔| What's this?</b></summary>
