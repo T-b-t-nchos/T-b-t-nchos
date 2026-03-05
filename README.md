@@ -127,9 +127,9 @@
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-frame=true&column=6&rank=-C,-B">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhLight&no-frame=true&column=6&rank=-C,-B">
-    <img alt="Top Langs" width="645" src="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-frame=true&column=6&rank=-C,-B">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-frame=true&column=6&margin-w=6&rank=-C,-B">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhLight&no-frame=true&column=6&margin-w=6&rank=-C,-B">
+    <img alt="Top Langs" width="651" src="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-frame=true&column=6&margin-w=2&rank=-C,-B">
   </picture>
 </div>
 
