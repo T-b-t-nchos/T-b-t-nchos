@@ -127,9 +127,9 @@
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-bg=true&no-frame=true&column=6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhLight&no-bg=true&no-frame=true&column=6">
-    <img alt="Top Langs" height="200" src="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-bg=true&no-frame=true&column=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-frame=true&column=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhLight&no-frame=true&column=6">
+    <img alt="Top Langs" height="200" src="https://github-profile-trophy-t-b-t-nchos.vercel.app/?username=T-b-t-nchos&theme=GhDark&no-frame=true&column=6">
   </picture>
 </div>
 
