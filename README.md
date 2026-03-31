@@ -23,38 +23,38 @@
 
 ## 🔥| Skil...s?
 ### Core Languages..?
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-080884?style=flat&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Z80](https://img.shields.io/badge/-Z80-144B9E?style=flat&logo=legacygames&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Z80](https://img.shields.io/badge/-Z80-144B9E?style=flat&logo=legacygames&logoColor=white)](#)
 <br>
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![BAT](https://img.shields.io/badge/-BAT-0088CC?style=flat&logo=gnu-bash&logoColor=white)
+[![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![BAT](https://img.shields.io/badge/-BAT-0088CC?style=flat&logo=gnu-bash&logoColor=white)](#)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
-![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
+[![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
   
 ### Frameworks & Runtimes & Dlls
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/-.NET_Framework-68217A?style=flat&logo=dotnet&logoColor=white)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![.NET Framework](https://img.shields.io/badge/-.NET_Framework-68217A?style=flat&logo=dotnet&logoColor=white)](#)
 <br>
-![Azuki](https://img.shields.io/badge/-Azuki_Text_Editor_Engine-8A3349?logoColor=white)
-![Discord.Net](https://img.shields.io/badge/-Discord.Net-5865F2?logo=discord&logoColor=white)
+[![Azuki](https://img.shields.io/badge/-Azuki_Text_Editor_Engine-8A3349?logoColor=white)](#)
+[![Discord.Net](https://img.shields.io/badge/Discord.Net-%235865F2.svg?&logo=discord&logoColor=white)](#)
 
 ### OS
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Proxmox](https://img.shields.io/badge/-Proxmox-CC0000?style=flat&logo=proxmox&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Proxmox](https://img.shields.io/badge/-Proxmox-CC0000?style=flat&logo=proxmox&logoColor=white)](#)
 
 <br>
 
