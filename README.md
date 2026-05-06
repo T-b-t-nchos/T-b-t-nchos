@@ -3,22 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&width=900&height=100&section=header"/>
 </div>
 
-## ✨️| Self-introduction
-### Hello, I'm T-b-t-nchos.
-#### 🇯🇵 | Japanese
-- はじめましての方ははじめまして、T-b-t-nchosです。
-- 普段は学生をしています。
-- C#などでちょっとしたアプリを開発してたりしてなかったりしています。
-
-#### 🇺🇸 | English
-- Hello, I'm T-b-t-nchos.
-- I'm a student.
-- I sometimes work on small apps in C#. 
-
-<br>
-
----
-
 <br>
 
 ## 🔥| Skil...s?
