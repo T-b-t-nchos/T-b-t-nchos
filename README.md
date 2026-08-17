@@ -35,7 +35,7 @@
 
 <br>
 
-## 📊| Contributes
+## 📊 Contributes
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-t-b-t-nchos.vercel.app/api?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true">
@@ -61,7 +61,7 @@
 
 <br>
 
-## 🪄| Asci-Art...?
+## 🪄 Asci-Art...?
 <div align="center">
   <details>
   <summary><b>Here</b></summary>
@@ -69,7 +69,7 @@
   </detail>
 </div>
 
-## 🐍| Contribute-Snake...
+## 🐍 Contribute-Snake...
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-b-t-nchos/T-b-t-nchos/output/github-contribution-grid-snake-dark.svg">
