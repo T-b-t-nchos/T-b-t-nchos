@@ -3,50 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&width=900&height=100&section=header"/>
 </div>
 
-<br>
+## 🔥 Skills
 
-## 🔥| Skil...s?
-### Core Languages..?
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-<br>
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#)
-[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
-<br>
-[![Z80](https://img.shields.io/badge/-Z80-144B9E?style=flat&logo=legacygames&logoColor=white)](#)
-<br>
-[![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![BAT](https://img.shields.io/badge/-BAT-0088CC?style=flat&logo=gnu-bash&logoColor=white)](#)
-[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell_Script-5391FE?logo=powershell-white&logoColor=fff)](#)
-
-### Tools
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-[![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
-  
-### Frameworks & Runtimes & Dlls
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
-[![.NET Framework](https://img.shields.io/badge/-.NET_Framework-68217A?style=flat&logo=dotnet&logoColor=white)](#)
-<br>
-[![Azuki](https://img.shields.io/badge/-Azuki_Text_Editor_Engine-8A3349?logoColor=white)](#)
-[![Discord.Net](https://img.shields.io/badge/Discord.Net-%235865F2.svg?&logo=discord&logoColor=white)](#)
-
-### OS
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Proxmox](https://img.shields.io/badge/-Proxmox-CC0000?style=flat&logo=proxmox&logoColor=white)](#)
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,lua,html,css,php,js,java,ts,latex,bash,powershell,bots,vscode,visualstudio,neovim,vim,dotnet,windows,linux,debian,ubuntu,raspberrypi,git,github,githubactions&perline=11" alt="My Skills">
+    </a>
+</div>
 
 <br>
 
