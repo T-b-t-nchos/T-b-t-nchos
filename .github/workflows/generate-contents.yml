@@ -22,7 +22,7 @@ jobs:
 
         steps:
             - name: Checkout output branch
-              uses: actions/checkout@v4
+              uses: actions/checkout@v6
               with:
                   ref: output
                   fetch-depth: 0
