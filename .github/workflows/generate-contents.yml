@@ -1,4 +1,4 @@
-name: generate snake🐍
+name: Generate contents
 
 on:
   # 03:00(JST) = 18:00(UTC) every day
@@ -15,6 +15,7 @@ on:
 
 jobs:
   generate:
+    name: generate snake🐍
     permissions: 
       contents: write
     runs-on: ubuntu-latest
