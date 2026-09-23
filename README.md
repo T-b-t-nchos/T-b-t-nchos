@@ -29,8 +29,6 @@
 <!---->
 <!-- \~ And, mo...re? \~ -->
 
----
-
 ## Contributes
 <div align="center">
   <picture>
@@ -52,8 +50,6 @@
 </div>
 
 
----
-
 
 ## Asci-Art...?
 <div align="center">
@@ -72,8 +68,6 @@
   </picture>
 </div>
 
-
----
 
 
 <br>
