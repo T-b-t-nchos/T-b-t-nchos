@@ -1,8 +1,3 @@
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=16a34a&width=900&height=100&section=header"/>
-</div>
-
 ## Skills
 
 <div align="center">
