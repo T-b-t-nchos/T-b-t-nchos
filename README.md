@@ -18,8 +18,8 @@
 <!-- ## 🔧| My project(?)s -->
 <!-- <div align="center"> -->
 <!--   <picture> -->
-<!--     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.nchos.net/pin?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true"> -->
-<!--     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.nchos.net/pin?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=f6f8fa&title_color=16a34a&text_color=6b7280&icon_color=16a34a&hide_border=true"> -->
+<!--     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/pin?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true"> -->
+<!--     <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/pin?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=f6f8fa&title_color=16a34a&text_color=6b7280&icon_color=16a34a&hide_border=true"> -->
 <!--     <img alt="My Projs" width="197"> -->
 <!--   </picture> -->
 <!---->
@@ -32,13 +32,13 @@
 ## Contributes
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.nchos.net/api?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.nchos.net/api?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=f6f8fa&title_color=16a34a&text_color=6b7280&icon_color=16a34a&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=f6f8fa&title_color=16a34a&text_color=6b7280&icon_color=16a34a&hide_border=true">
     <img alt="GitHub Stats" width="450">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.nchos.net/api/top-langs?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.nchos.net/api/top-langs?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=f6f8fa&title_color=16a34a&text_color=6b7280&icon_color=16a34a&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=151b23&title_color=16a34a&text_color=d0d0d0&icon_color=16a34a&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?show_icons=true&count_private=true&username=T-b-t-nchos&bg_color=f6f8fa&title_color=16a34a&text_color=6b7280&icon_color=16a34a&hide_border=true">
     <img alt="Top Langs" width="197">
   </picture>
   <br>
